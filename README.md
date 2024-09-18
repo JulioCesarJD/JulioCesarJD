@@ -32,5 +32,5 @@ Siempre busco **nuevas oportunidades para aprender**, enfrentar desafíos técni
 
 ## 🌐 Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/juliocesarjimenod/) 
-- [Portafolio](https://porfoliojcdev.vercel.app/) 
+- 📃[LinkedIn](https://www.linkedin.com/in/juliocesarjimenod/) 
+- 💻 [Portafolio](https://porfoliojcdev.vercel.app/) 
