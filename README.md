@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Julio César
 
-Soy un desarrollador de software apasionado con más de **3 años de experiencia** en la creación de soluciones tecnológicas innovadoras. Mi trabajo abarca desde el desarrollo de sistemas completos hasta aplicaciones móviles y web, cubriendo todas las fases: desde la definición de requerimientos hasta el despliegue en producción.
+Soy un desarrollador de software apasionado con más de **4 años de experiencia** en la creación de soluciones tecnológicas innovadoras. Mi trabajo abarca desde el desarrollo de sistemas completos hasta aplicaciones móviles y web, cubriendo todas las fases: desde la definición de requerimientos hasta el despliegue en producción.
 
 A lo largo de mi carrera, he tenido el privilegio de trabajar en proyectos a gran escala para **pequeñas empresas** y **grandes organizaciones**, lo que me ha permitido desarrollar habilidades clave como:
 
