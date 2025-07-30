@@ -4,7 +4,6 @@ Soy un desarrollador de software apasionado con más de **4 años de experiencia
 
 A lo largo de mi carrera, he tenido el privilegio de trabajar en proyectos a gran escala para **pequeñas empresas** y **grandes organizaciones**, lo que me ha permitido desarrollar habilidades clave como:
 
-- 💼 Colaboración interdisciplinaria.
 - 👥 Trabajo en equipo.
 - 🚀 Liderazgo técnico.
 
